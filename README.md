@@ -1,3 +1,3 @@
-# veronicahead.github.io
+# A Portfolio for Veronica head
 
-# site under construction
+This site contains a personal portfolio for Veronica Head, built with HTML/CSS and Jekyll. Also, hosted on Github. Enjoy.
