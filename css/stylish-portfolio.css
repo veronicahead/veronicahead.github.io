@@ -1,3 +1,6 @@
+/* Colors used -
+ yellow: #D9AC1C red: #C10423 dark red: #8C0319 off white: #F3F3F0*/
+
 body,
 html {
   width: 100%;
@@ -98,6 +101,20 @@ p {
   padding-top: 8rem;
   padding-bottom: 8rem;
   background: linear-gradient(90deg, rgba(255, 255, 255, 0.1) 0%, rgba(255, 255, 255, 0.1) 100%), url("../img/lockettalt.jpg");
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.portfolio-masthead {
+  min-height: 20rem;
+  position: relative;
+  display: table;
+  width: 100%;
+  height: auto;
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+  background: linear-gradient(180deg, #C10423 0%, #8C0319 100%);
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
